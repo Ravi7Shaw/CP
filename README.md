@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ravi7Shaw/CP/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/Ravi7Shaw/CP/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Ravi7Shaw/CP/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Ravi7Shaw/CP/tree/master/0055-jump-game) |
 ## Hash Table
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Ravi7Shaw/CP/tree/master/0055-jump-game) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Ravi7Shaw/CP/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
