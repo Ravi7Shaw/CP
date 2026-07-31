@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ravi7Shaw/CP/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Ravi7Shaw/CP/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/Ravi7Shaw/CP/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ravi7Shaw/CP/tree/master/0055-jump-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravi7Shaw/CP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ravi7Shaw/CP/tree/master/0048-rotate-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Ravi7Shaw/CP/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
