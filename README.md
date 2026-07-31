@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Ravi7Shaw/CP/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Ravi7Shaw/CP/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Ravi7Shaw/CP/tree/master/0055-jump-game) |
+| [0739-daily-temperatures](https://github.com/Ravi7Shaw/CP/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ravi7Shaw/CP/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/Ravi7Shaw/CP/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ravi7Shaw/CP/tree/master/0039-combination-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Ravi7Shaw/CP/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
