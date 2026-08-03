@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Ravi7Shaw/CP/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Ravi7Shaw/CP/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Ravi7Shaw/CP/tree/master/0055-jump-game) |
+| [0486-predict-the-winner](https://github.com/Ravi7Shaw/CP/tree/master/0486-predict-the-winner) |
 | [0739-daily-temperatures](https://github.com/Ravi7Shaw/CP/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ravi7Shaw/CP/tree/master/0048-rotate-image) |
+| [0486-predict-the-winner](https://github.com/Ravi7Shaw/CP/tree/master/0486-predict-the-winner) |
 ## Matrix
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Ravi7Shaw/CP/tree/master/0055-jump-game) |
+| [0486-predict-the-winner](https://github.com/Ravi7Shaw/CP/tree/master/0486-predict-the-winner) |
 ## Backtracking
 |  |
 | ------- |
@@ -60,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Ravi7Shaw/CP/tree/master/0739-daily-temperatures) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ravi7Shaw/CP/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ravi7Shaw/CP/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
