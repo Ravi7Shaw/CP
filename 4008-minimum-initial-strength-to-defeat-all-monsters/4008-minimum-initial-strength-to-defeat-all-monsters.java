@@ -18,10 +18,10 @@ class Solution {
         }
 
         long low = 0;
-        long high = 0;
-        for (int x : monsters) {
-            high += x; 
-        }
+        long high = Long.MAX_VALUE;
+        // for (int x : monsters) {
+        //     high += x; 
+        // }
 
         while (low < high) {
             long mid = low + (high - low) / 2;
