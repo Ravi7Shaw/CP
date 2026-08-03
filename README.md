@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ravi7Shaw/CP/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/Ravi7Shaw/CP/tree/master/0486-predict-the-winner) |
 | [0739-daily-temperatures](https://github.com/Ravi7Shaw/CP/tree/master/0739-daily-temperatures) |
+| [1406-stone-game-iii](https://github.com/Ravi7Shaw/CP/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Ravi7Shaw/CP/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/Ravi7Shaw/CP/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Ravi7Shaw/CP/tree/master/1406-stone-game-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Ravi7Shaw/CP/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/Ravi7Shaw/CP/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Ravi7Shaw/CP/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -71,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ravi7Shaw/CP/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Ravi7Shaw/CP/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
