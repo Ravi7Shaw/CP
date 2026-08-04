@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Ravi7Shaw/CP/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Ravi7Shaw/CP/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Ravi7Shaw/CP/tree/master/0055-jump-game) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ravi7Shaw/CP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0486-predict-the-winner](https://github.com/Ravi7Shaw/CP/tree/master/0486-predict-the-winner) |
 | [0739-daily-temperatures](https://github.com/Ravi7Shaw/CP/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Ravi7Shaw/CP/tree/master/0877-stone-game) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ravi7Shaw/CP/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ravi7Shaw/CP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Ravi7Shaw/CP/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ravi7Shaw/CP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Ravi7Shaw/CP/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ravi7Shaw/CP/tree/master/0020-valid-parentheses) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ravi7Shaw/CP/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
