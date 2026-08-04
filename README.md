@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Ravi7Shaw/CP/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Ravi7Shaw/CP/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ravi7Shaw/CP/tree/master/1406-stone-game-iii) |
+| [3731-find-missing-elements](https://github.com/Ravi7Shaw/CP/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ravi7Shaw/CP/tree/master/0001-two-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravi7Shaw/CP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Ravi7Shaw/CP/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravi7Shaw/CP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Ravi7Shaw/CP/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
