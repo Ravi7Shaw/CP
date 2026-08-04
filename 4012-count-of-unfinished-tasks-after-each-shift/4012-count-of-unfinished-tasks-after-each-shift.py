@@ -12,7 +12,6 @@ class Solution:
         for s in shifts:
             p += s
             res.append(n - bisect_right(pre, p))
-            if p >= pre[-1]:
-                p = 0
+            if p >= pre[-1]:p = 0
 
         return res
