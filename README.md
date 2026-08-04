@@ -90,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ravi7Shaw/CP/tree/master/0486-predict-the-winner) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ravi7Shaw/CP/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
