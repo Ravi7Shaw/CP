@@ -18,7 +18,7 @@ class Solution {
         }
 
         long low = 0;
-        long high = Long.MAX_VALUE;
+        long high = (long)1e18;
         // for (int x : monsters) {
         //     high += x; 
         // }
